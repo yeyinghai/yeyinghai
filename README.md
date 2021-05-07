@@ -1,6 +1,6 @@
 - 👋 Hi, 我的名字代东海
 - 👀 自我介绍：90后，从事弱电安防智能化工程，包含监控系统，楼宇对讲系统，LED系统，广播音箱系统，停车场系统，楼宇对讲系统。喜欢分享捣鼓有趣的代码，熟悉HTML、CSS、PHP、C语言技术，熟悉wordpress、 Discuz!论坛社区产品。
-- 🌱 我的网站（yeyhome.com）
+- 🌱 [我的网站]（yeyhome.com）
 - 💞️ 以下均为我熟练使用的技能
 Web开发：PHP/Hack/Node
 Web框架：ThinkPHP/Yaf/Yii/Laravel/LazyPHP
